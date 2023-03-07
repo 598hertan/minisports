@@ -1,2 +1,2 @@
 # minisports
-Personal website for Wyatt
+Personal website
